@@ -45,9 +45,13 @@ Echo Realms: Rise of the Fragments is a mobile VR game where players rebuild dig
 ## Author
 
 Alok,Solo Developer
+<br>
 IIT Patna
+<br>
 Email: alok844937@gmail.com
+<br>
 GitHub: https://github.com/alok844937-design
+<br>
 LinkedIn: https://linkedin.com/in/alok-8a760a37a
 
 ## Instructions:
